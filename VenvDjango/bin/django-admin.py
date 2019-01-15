@@ -1,4 +1,4 @@
-#!/home/alberto/Documents/myGit/python-react/rest-python-react/VenvDjango/bin/python3
+#!/home/yanes/Downloads/myGit/python/rest-python-react/VenvDjango/bin/python3
 from django.core import management
 
 if __name__ == "__main__":

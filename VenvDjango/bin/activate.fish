@@ -32,7 +32,7 @@ end
 # unset irrelavent variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/alberto/Documents/myGit/python-react/rest-python-react/VenvDjango"
+set -gx VIRTUAL_ENV "/home/yanes/Downloads/myGit/python/rest-python-react/VenvDjango"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

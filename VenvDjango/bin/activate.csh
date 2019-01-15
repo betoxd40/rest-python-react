@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelavent variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/home/alberto/Documents/myGit/python-react/rest-python-react/VenvDjango"
+setenv VIRTUAL_ENV "/home/yanes/Downloads/myGit/python/rest-python-react/VenvDjango"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

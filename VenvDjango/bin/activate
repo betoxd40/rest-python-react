@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelavent variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/alberto/Documents/myGit/python-react/rest-python-react/VenvDjango"
+VIRTUAL_ENV="/home/yanes/Downloads/myGit/python/rest-python-react/VenvDjango"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
